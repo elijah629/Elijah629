@@ -1,1 +1,1 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Elijah629&count_private=true&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&bg_color=000000&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Elijah629&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=FFFFFF&hide_border=true&bg_color=0d1117&locale=en)
