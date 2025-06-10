@@ -1,7 +1,7 @@
 ## Stuff I've worked with and enjoyed in the past :arrow_down:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,arch,solidjs,nextjs,cs,html,ts,js,css,supabase,git,react,vercel" />
+  <img src="https://skillicons.dev/icons?i=rust,arch,solidjs,nextjs,cs,html,ts,js,css,supabase,git,cloudflare,github,react,vercel" />
 </p>
 
 ## Website
