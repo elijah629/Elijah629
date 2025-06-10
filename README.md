@@ -1,13 +1,13 @@
-## Stuff I've worked with and enjoyed in the past :arrow_down:
+## Tech I've worked with and enjoyed in the past in no particular order or quantity :arrow_down:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,arch,solidjs,nextjs,cs,html,ts,js,css,supabase,git,cloudflare,github,react,vercel" />
+  <img src="https://skillicons.dev/icons?i=ableton,apple,arch,bash,bevy,blender,bun,c,cs,cpp,cloudflare,css,debian,discord,discordjs,electron,express,figma,firebase,git,github,githubactions,godot,gtk,html,ipfs,java,js,linux,lua,md,neovim,nextjs,nix,nix,nix,nodejs,npm,obsidian,postman,powershell,raspberrypi,react,regex,replit,rust,rust,rust,rust,stackoverflow,supabase,selenium,sentry,solidjs,svg,tailwind,tauri,threejs,ts,ubuntu,unity,vite,vscode,vscodium,vue,wasm" />
 </p>
 
 ## Website
 https://elijah629.thedev.id/
 
-## More stuff
+## Stats
 
 <details>
   <summary>Github Stats</summary>
