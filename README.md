@@ -9,13 +9,8 @@ https://elijah629.thedev.id/
 
 ## Stats
 
-<details>
-  <summary>Github Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Elijah629&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah629&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10">
-  </p>
-</details>
+![hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=10968&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)
+![me](https://github-readme-stats.vercel.app/api?username=Elijah629&count_private=true&hide_border=true&show_icons=true&theme=catppuccin_mocha">)
+![langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah629&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true&langs_count=10">)
 
 tbh I don't think half of my shit still works, curse you breaking changes
