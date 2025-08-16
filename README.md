@@ -2,6 +2,8 @@
 
 this is me
 
+![i use nixos btw](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E9AA7&center=true&vCenter=true&width=940&lines=I+use+nixos+btw)
+
 ## Tech I've worked with and enjoyed in the past in no particular order or quantity :arrow_down:
 
 <p align="center">
